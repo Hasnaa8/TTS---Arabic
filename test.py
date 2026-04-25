@@ -498,8 +498,7 @@ def allah_word(text):
 def main(inp):
     text = (str)(inp)
         
-    # Example usage
-    # raw_text = " .ذهب الطالب إلى المدرسة"
+    # raw_text = ".ذهب الطالب إلى المدرسة"
     print(text)
     text = auto_tashkeel(text)
      
