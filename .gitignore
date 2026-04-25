@@ -12,11 +12,7 @@ env/
 .vscode/
 .idea/
 
-/voices/
 /screens/
-/mbrola/
 
-output_file.pho
-input.txt
 
 audio.wav
